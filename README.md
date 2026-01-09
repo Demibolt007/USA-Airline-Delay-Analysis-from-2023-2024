@@ -46,7 +46,7 @@ U.S.A Airline Delay Analysis from 2023 - 2024(is included in this repository and
 
 ---
 
-## \Dashboard Structure (Power BI)
+## Dashboard Structure (Power BI)
 
 The report is designed using a in 2 pages and built on a **16:9 (1920×1080) canvas**.
 
