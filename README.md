@@ -86,7 +86,7 @@ Focus: Airline-level and geographic delay patterns.
 
 ---
 
-<img width="2057" height="2368" alt="Task 34A - Adeniyi Oluwademilade Adedamola" src="https://github.com/user-attachments/assets/1d9f7d91-e15e-459a-b6d5-e8062791daf0" />
+<img width="2057" height="2368" alt="USA Airline Delay Analysis (2023–2024)" src="https://github.com/user-attachments/assets/9cc2b783-920f-47ee-813e-b55649188953" />
 
 ---
 
